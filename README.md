@@ -28,7 +28,8 @@ leetspeak filter for AngularJS
     <script src="YOUR_PATH/angular-leetspeak.min.js"></script>
     ```
 4. Use the angular filter `leetspeak` like this: `{{ name | leetspeak}}`
-5. Sample:
+
+## Sample
 
 HTML
 ```html
