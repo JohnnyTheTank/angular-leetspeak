@@ -5,6 +5,9 @@ leetspeak filter for AngularJS
 [![Bower version](https://badge.fury.io/bo/angular-leetspeak.svg)](https://badge.fury.io/bo/angular-leetspeak)
 
 
+## Demo
+[demo on plnkr](http://plnkr.co/edit/eomjSW?p=preview)
+
 ## Usage
 
 1. Install via either [bower](http://bower.io/), [npm](https://www.npmjs.com/) or downloaded files:
