@@ -39,7 +39,7 @@ HTML
 ```
 
 Result:
-```
+```html
 <p>
     Author: j0hnny7h374nk
 </p>
