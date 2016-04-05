@@ -1,0 +1,31 @@
+{
+  "name": "angular-leetspeak",
+  "homepage": "https://github.com/JohnnyTheTank/angular-leetspeak",
+  "authors": [
+    "Jonathan Hornung <jonathan.hornung@gmail.com>"
+  ],
+  "version": "1.0.0",
+  "description": "leetspeak filter for AngularJS",
+  "main": "dist/angular-leetspeak.min.js",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "keywords": [
+    "leetspeak",
+    "angularjs",
+    "angular",
+    "filter"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JohnnyTheTank/angular-leetspeak.git"
+  }
+}
