@@ -1,6 +1,6 @@
 /**
     @name: angular-leetspeak 
-    @version: 1.0.0 (05-04-2016) 
+    @version: 1.0.1 (06-04-2016) 
     @author: Jonathan Hornung <jonathan.hornung@gmail.com> 
     @url: https://github.com/JohnnyTheTank/angular-leetspeak#readme 
     @license: MIT
@@ -35,7 +35,7 @@ angular.module('jtt_leetspeak')
 
 angular.module('jtt_leetspeak')
     .filter('leetspeak', ['leetspeakService', function (leetspeakService) {
-        return function (input, all) {
+        return function (input) {
             return leetspeakService.convertToLeetspeak(input);
         }
     }]);

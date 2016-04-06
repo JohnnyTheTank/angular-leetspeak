@@ -28,7 +28,7 @@ angular.module('jtt_leetspeak')
 
 angular.module('jtt_leetspeak')
     .filter('leetspeak', ['leetspeakService', function (leetspeakService) {
-        return function (input, all) {
+        return function (input) {
             return leetspeakService.convertToLeetspeak(input);
         }
     }]);

@@ -4,9 +4,9 @@
   "authors": [
     "Jonathan Hornung <jonathan.hornung@gmail.com>"
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "leetspeak filter for AngularJS",
-  "main": "dist/angular-leetspeak.min.js",
+  "main": "dist/angular-leetspeak.js",
   "moduleType": [
     "globals"
   ],
