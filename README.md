@@ -18,7 +18,7 @@ leetspeak filter for AngularJS
 3. Include dependencies and angular-leetspeak in your HTML.
     1. When using bower
     ```html
-    <script src="node_modules/angular-leetspeak/dist/angular-leetspeak.min.js"></script>
+    <script src="bower_components/angular-leetspeak/dist/angular-leetspeak.min.js"></script>
     ```
 
     2. When using npm
